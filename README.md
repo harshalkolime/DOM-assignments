@@ -1,7 +1,7 @@
 
 # DOM assignment 1
 
-w
+
 ## task one before-
 
 ![App Screenshot](./DOM%20Assignments%202.0/DOM%20Assignment%202.0%201%2C2%2C3/firstAssignmentImage/Screenshot%20(8).png)
